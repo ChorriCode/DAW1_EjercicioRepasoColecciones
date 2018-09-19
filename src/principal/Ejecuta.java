@@ -18,7 +18,7 @@ public class Ejecuta {
 		printArrayListEmployees(ArrayListDataRead("src/ficheros/informacion.txt"));
 		System.out.println("");
 		printHashMapEmployees(HashMapDataRead("src/ficheros/informacion.txt"));
-	}
+	} 
 
 //********************* ATTRIBUTES *********************
 	
