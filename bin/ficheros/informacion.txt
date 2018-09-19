@@ -1,0 +1,4 @@
+Juan#m#1000
+Pedro#m#1200
+Maria#f#1300
+Marta#f#1400
